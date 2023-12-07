@@ -1,0 +1,130 @@
+<mxfile host="65bd71144e">
+    <diagram id="SF0gCneb1vtWk4Vpl8B9" name="Page-1">
+        <mxGraphModel dx="583" dy="2317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="39" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontColor=#FFFFFF;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="3" target="37" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="usuario" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="330" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Verdana&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;&lt;i&gt;Desarrolla un Backend robusto y eficiente para una plataforma de gestión de envíos de&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Verdana&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;&lt;i&gt;nuestra empresa Coordinadora, que permita a los usuarios registrar, rastrear y administrar&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial; color: rgb(0, 0, 0); font-family: Verdana;&quot;&gt;&lt;i&gt;envíos de paquetes a nivel nacional e internacional. El sistema debe ser capaz de gestionar&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial; color: rgb(0, 0, 0); font-family: Verdana;&quot;&gt;&lt;i&gt;múltiples tipos de paquetes, procesar información de seguimiento en tiempo real, asignar&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial; color: rgb(0, 0, 0); font-family: Verdana;&quot;&gt;&lt;i&gt;rutas óptimas para el reparto y proporcionar a los usuarios información detallada y&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial; color: rgb(0, 0, 0); font-family: Verdana;&quot;&gt;&lt;i&gt;actualizada sobre el estado y la ubicación de sus envíos. Asimismo, se requiere integrar&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial; color: rgb(0, 0, 0); font-family: Verdana;&quot;&gt;&lt;i&gt;características de seguridad y autenticación sólidas para garantizar la protección de los&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial; color: rgb(0, 0, 0); font-family: Verdana;&quot;&gt;&lt;i&gt;datos sensibles de los usuarios y la confidencialidad de la información de los envíos.&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;color: rgb(0, 0, 0); font-family: Verdana; background-color: initial;&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;color: rgb(0, 0, 0); font-family: Verdana; background-color: initial;&quot;&gt;&lt;i&gt;El&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;b style=&quot;color: rgb(0, 0, 0); font-family: Verdana; background-color: initial;&quot;&gt;&lt;i&gt;Backend deberá ser altamente escalable y adaptable para acomodar el crecimiento futuro&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;b style=&quot;color: rgb(0, 0, 0); font-family: Verdana; background-color: initial;&quot;&gt;&lt;i&gt;y las necesidades cambiantes del negocio, además de ofrecer interfaces de programación de&lt;/i&gt;&lt;/b&gt;&lt;b style=&quot;color: rgb(0, 0, 0); font-family: Verdana; background-color: initial;&quot;&gt;&lt;i&gt;aplicaciones (API) bien documentadas para facilitar la integración con otros sistemas y&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Verdana&quot;&gt;servicios externos&lt;/font&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="-30" width="1330" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontColor=#FFFFFF;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="6" target="7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="tipo_paquete" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="940" y="330" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="paquete" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="730" y="330" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontColor=#FFFFFF;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="8" target="33" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="ruta" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="930" y="450" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontColor=#FFFFFF;startArrow=none;startFill=0;endArrow=block;endFill=1;" parent="1" source="9" target="37" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="estado" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="220" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;fontColor=#FFFFFF;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="10" target="7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="ubicacion" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="730" y="210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Verdana;fontColor=#FFFFFF;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="11" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="token" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="450" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Verdana;fontColor=#FFFFFF;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="33" target="7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="medio_trasporte" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="730" y="450" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontColor=#FFFFFF;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="37" target="7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="envio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="330" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Verdana;fontColor=#FFFFFF;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="38" target="37" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="tipo_envio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="450" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontColor=#FFFFFF;startArrow=ERone;startFill=0;endArrow=ERoneToMany;endFill=0;" parent="1" source="46" target="61" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="usuario" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1360" y="890" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontColor=#FFFFFF;startArrow=ERone;startFill=0;endArrow=ERoneToMany;endFill=0;" parent="1" source="48" target="49" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="tipo_paquete" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="2020" y="890" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="paquete" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1810" y="890" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontColor=#FFFFFF;startArrow=ERone;startFill=0;endArrow=ERoneToMany;endFill=0;" parent="1" source="51" target="58" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="ruta" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="2040" y="1010" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontColor=#FFFFFF;startArrow=ERone;startFill=0;endArrow=ERoneToMany;endFill=0;" parent="1" source="53" target="49" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="estado" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1810" y="750" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="ubicacion" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="2020" y="1140" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Verdana;fontColor=#FFFFFF;startArrow=ERone;startFill=0;endArrow=ERoneToMany;endFill=0;" parent="1" source="56" target="46" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="token" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1360" y="1010" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Verdana;fontColor=#FFFFFF;startArrow=ERone;startFill=0;endArrow=ERoneToMany;endFill=0;" parent="1" source="58" target="49" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="reparto" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1810" y="1010" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="medio_trasporte" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1790" y="1150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontColor=#FFFFFF;startArrow=ERone;startFill=0;endArrow=ERoneToMany;endFill=0;" parent="1" source="61" target="49" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="envio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1590" y="890" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Verdana;fontColor=#FFFFFF;startArrow=ERone;startFill=0;endArrow=ERoneToMany;endFill=0;" parent="1" source="63" target="61" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="tipo_envio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1590" y="1010" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="Realizar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="420" y="330" width="70" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
